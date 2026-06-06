@@ -62,12 +62,8 @@ python main.py
 ```
 
 Example:
+![Demo](demo.png)
 
-```text
-You: Explain merge sort
-
-AI Bot: Merge sort is a divide-and-conquer sorting algorithm...
-```
 
 ## Rate Limit Handling
 
